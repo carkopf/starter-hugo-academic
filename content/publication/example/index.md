@@ -15,7 +15,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   eleifend gravida.
 tags: []
 projects:
-  - Theneuroscienceofcontent
+  - The neuroscience of content
 slides: example
 url_pdf: ""
 publication_types:
