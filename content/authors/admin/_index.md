@@ -25,6 +25,7 @@ social:
 organizations:
   - name: Jülich Research Center
     url: https://www.fz-juelich.de/en
+  - name: University of Bonn
 education:
   courses:
     - course: PhD in Philosophy
@@ -32,7 +33,7 @@ education:
       year: ""
     - course: MA in Logic
       institution: "KU Leuven "
-      year: 25
+      year: ""
     - course: BA in Philosophy
       institution: Colgate University
       year: ""
