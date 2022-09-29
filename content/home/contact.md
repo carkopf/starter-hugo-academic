@@ -22,23 +22,23 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: charles.rathkopf@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 
+    city: Jülich
+    region: 
+    postcode: 
+    country: Germany
+    country_code: 
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
+  directions: Enter Building 14.6 and take the stairs to Office 305 on Floor 2
+ % office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
