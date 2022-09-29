@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3AJuoLwAAAAJ&hl=en&oi=ao
   - display:
-      header: false
+      header: true
     icon: philpapers
     icon_pack: ai
     link: https://philpeople.org/profiles/charles-rathkopf
