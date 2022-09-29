@@ -21,7 +21,7 @@ social:
   - display:
       header: false
     icon: philpapers
-    icon_pack: fas
+    icon_pack: ai
     link: https://philpeople.org/profiles/charles-rathkopf
     label: "Philpeople "
 organizations:
