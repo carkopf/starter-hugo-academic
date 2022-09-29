@@ -4,8 +4,10 @@ avatar_filename: avatar.jpeg
 bio: I am interested in how physical things give rise to mental properties.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroscience
+  - Animal Cognition
+  - Consciousness
+  - Biological Complexity
 social:
   - icon: envelope
     icon_pack: fas
