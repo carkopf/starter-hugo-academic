@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=3AJuoLwAAAAJ&hl=en&oi=ao
   - display:
       header: false
     icon: philpapers
@@ -42,7 +42,7 @@ education:
 superuser: true
 highlight_name: true
 title: Charles Rathkopf
-email: ""
+email: charles.rathkopf@gmail.com
 ---
 
 I am interested in how mental properties emerge from physical stuff. 
