@@ -2,27 +2,30 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor of Philosophy
+    company: Iona College
     company_url: ""
     company_logo: org-gc
-    location: California
+    location: New York
     date_start: 2021-01-01
     date_end: ""
     description: |-2
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+    
+        * Research
+        * Grant writing
+        * Teaching
+        * New course development
+      
+  - title: Postdoctoral Scholar
+    company: The Graduate Center at the City University of New York
     company_url: ""
     company_logo: org-x
-    location: California
+    location: New York
     date_start: 2016-01-01
     date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Researched the nature of information in neurosciene and biology with Professor Peter Godfrey-Smith
+    
 widget_id: experience
 headless: true
 weight: 40
@@ -31,6 +34,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Assistant Professor of Philosophy
-
-Iona College
