@@ -18,12 +18,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon: Philpapers
+    icon_pack: fas
+    link: https://philpeople.org/profiles/charles-rathkopf
+    label: "Philpeople "
 organizations:
   - name: Jülich Research Center
     url: https://www.fz-juelich.de/en
