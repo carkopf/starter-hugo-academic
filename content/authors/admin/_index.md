@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - display:
       header: false
-    icon: Philpapers
+    icon: philpapers
     icon_pack: fas
     link: https://philpeople.org/profiles/charles-rathkopf
     label: "Philpeople "
