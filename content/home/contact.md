@@ -26,8 +26,9 @@ content:
 
   # Contact details (edit or remove options as required)
   email: charles.rathkopf@gmail.com
-  phone: 888 888 88 88
- % appointment_url: 'https://calendly.com'
+  phone: 888 888 88 88 
+ 
+% appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -37,6 +38,7 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
+
 design:
   columns: '2'
 ---
