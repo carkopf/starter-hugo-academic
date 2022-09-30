@@ -31,7 +31,6 @@ content:
     city: Jülich
     postcode: 52428
     country: Germany 
-  directions: Enter Building 14.6 and take the stairs to Office 305 on Floor 2
  % appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
