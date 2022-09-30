@@ -28,12 +28,12 @@ content:
   email: charles.rathkopf@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Wilhelm-Johnen Strasse
+    city: Jülich
+    region: NRW
+    postcode: '52428'
+    country: Germany
+    country_code: DE
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
