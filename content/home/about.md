@@ -7,4 +7,4 @@ title: Biography
 active: true
 author: admin
 ---
-Here is some information 
+Here is some information about me.
