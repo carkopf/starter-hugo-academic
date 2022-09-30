@@ -1,5 +1,5 @@
 ---
-role: Research Associate in Philosophy of Mind and Artificial Intelligence
+role: Research Associate at Institute for Brain and Behavior
 avatar_filename: avatar.jpeg
 bio: I am interested in how physical things give rise to mental properties
 interests:
