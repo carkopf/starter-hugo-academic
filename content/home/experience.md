@@ -17,11 +17,11 @@ experience:
     date_end: ""
     description: |-2
         Responsibilities include:
-
         * Research
         * Grant writing
         * Teaching
         * New course development
+       
   - title: Postdoctoral Scholar
     company: The Graduate Center at the City University of New York
     company_url: ""
@@ -34,4 +34,3 @@ experience:
 design:
   columns: "2"
 ---
-# Testing this widget.
