@@ -7,4 +7,4 @@ title: Biography
 active: true
 author: admin
 ---
-Here is some information about my background.
+Here is some information about my background. I like math.
