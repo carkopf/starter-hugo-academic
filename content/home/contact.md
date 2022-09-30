@@ -27,20 +27,11 @@ content:
   # Contact details (edit or remove options as required)
   email: charles.rathkopf@gmail.com
   phone: 888 888 88 88
-  address:
-    street: 
+  address: 
     city: Jülich
-    region: 
-    postcode: 
-    country: Germany
-    country_code: 
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    postcode: 52428
+    country: Germany 
   directions: Enter Building 14.6 and take the stairs to Office 305 on Floor 2
- % office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
  % appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
