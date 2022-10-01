@@ -11,7 +11,6 @@ experience:
   - title: Assistant Professor of Philosophy
     company: Iona College
     company_url: ""
-    company_logo: org-gc
     location: New York
     date_start: 2021-01-01
     date_end: ""
@@ -25,7 +24,6 @@ experience:
   - title: Postdoctoral Scholar
     company: The Graduate Center at the City University of New York
     company_url: ""
-    company_logo: org-x
     location: New York
     date_start: 2016-01-01
     date_end: 2020-12-31
