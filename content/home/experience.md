@@ -8,6 +8,14 @@ subtitle: null
 active: true
 date_format: Jan 2006
 experience:
+ - title: Research Associate
+    company: Jülich Research Center
+    company_url: ""
+    location: New York
+    date_start: 2018-09-01
+    date_end: ""
+    description: research on conceptual and ethical issues in neuroscience and artificial intelligence 
+    
   - title: Assistant Professor of Philosophy
     company: Iona College
     company_url: ""
