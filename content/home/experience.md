@@ -8,7 +8,7 @@ subtitle: null
 active: true
 date_format: Jan 2006
 experience:
- - title: Research Associate
+  - title: Research Associate
     company: Jülich Research Center
     company_url: ""
     location: New York
