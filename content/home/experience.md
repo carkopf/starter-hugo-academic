@@ -12,8 +12,8 @@ experience:
     company: Iona College
     company_url: ""
     location: New York
-    date_start: 2015-09
-    date_end: 2018-09
+    date_start: 2016-09-01
+    date_end: 2018-09-01
     description: |-2
         Responsibilities include:
         * Research
@@ -25,8 +25,8 @@ experience:
     company: The Graduate Center at the City University of New York
     company_url: ""
     location: New York
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2016-09-01
     description: Researched the nature of information in neurosciene and biology
       with Professor Peter Godfrey-Smith
 design:
