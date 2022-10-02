@@ -9,7 +9,7 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Research Associate
-    company: Jülich Research Center
+    company: Jülich Research Center, Institute for Neuroscience and Medicine 
     company_url: ""
     location: New York
     date_start: 2018-09-01
