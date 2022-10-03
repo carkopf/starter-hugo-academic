@@ -10,9 +10,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Virtual Virtue
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Charles Rathkopf](www.charlesrathkopf.net) | [Jan-Hendrik Heinrichs](https://www.fz-juelich.de/profile/heinrichs_j)
 
 ---
 
@@ -26,41 +26,8 @@ slides:
 
 ## Controls
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+- virtual reality
 
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
 
 ---
 
