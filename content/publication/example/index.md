@@ -1,6 +1,9 @@
 ---
 title: "Can we read minds by imaging brains? "
-authors: [Charles Rathkopf, Jan-Hendrik Heinrichs, and Bert Heinrichs]
+authors:
+    - Charles Rathkopf
+    - Jan-Hendrik Heinrichs
+    - Bert Heinrichs
 author_notes:""
 publication_short: Philosophical Psychology
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
