@@ -4,7 +4,6 @@ authors:
     - Charles Rathkopf
     - Jan-Hendrik Heinrichs
     - Bert Heinrichs
-author_notes:""
 publication_short: Philosophical Psychology
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
