@@ -24,7 +24,7 @@ url_pdf: ""
 publication_types:
   - "2"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 summary: "Reading minds is easier than you might think. "
