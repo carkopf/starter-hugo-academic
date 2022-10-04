@@ -48,4 +48,3 @@ email: charles.rathkopf@gmail.com
 
 I am interested in how mental properties emerge from physical stuff. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
