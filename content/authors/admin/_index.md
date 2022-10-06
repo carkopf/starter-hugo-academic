@@ -46,7 +46,7 @@ title: Charles Rathkopf
 email: charles.rathkopf@gmail.com
 ---
 
-Broadly speaking, my research is in the philosophy of mind and the philosophy of science. Most of what I work on has to do with ideas in neuroscience and in AI, and how they are related to each other. I tend to focus on theoretical issues in these areas, but am also interested in the ethical dimension. 
+Broadly speaking, my research is in the philosophy of mind and the philosophy of science. Most of what I work on has to do with neuroscience and artificial intelligence, how these two fields are related to each other, and how scientific work in these areas relates to older philosophical ideas. I tend to focus on the theoretical side of philosophy, but have begun to work on the ethical side as well.   
 
 
 
