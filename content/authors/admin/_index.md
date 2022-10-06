@@ -1,7 +1,7 @@
 ---
-role: Research Associate at Institute for Brain and Behavior
+role: "Research Associate at the Institute for Brain and Behavior "
 avatar_filename: avatar.jpeg
-bio: I am interested in how physical things give rise to mental properties
+bio: "I am interested in how mental properties emerge from physical stuff. "
 interests:
   - Artificial Intelligence
   - Neuroscience
@@ -46,5 +46,9 @@ title: Charles Rathkopf
 email: charles.rathkopf@gmail.com
 ---
 
-I am interested in how mental properties emerge from physical stuff. 
+Broadly speaking, my research is in the philosophy of mind and the philosophy of science. Most of what I work on has to do with ideas in neuroscience and in AI, and how they are related to each other. I tend to focus on theoretical issues in these areas, but am also interested in the ethical dimension. 
+
+
+
+
 
