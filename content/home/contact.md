@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: charles.rathkopf@gmail.com
+  email: charles{dot}rathkopf{@}gmail.com
   contact_links:
     - icon: twitter
       icon_pack: fab
