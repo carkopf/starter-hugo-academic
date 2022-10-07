@@ -1,5 +1,5 @@
 ---
-title: Do large language models understand anything?
+title: Do large language models understand?
 date: 2022-10-07T17:54:46.497Z
 draft: false
 featured: false
