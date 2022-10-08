@@ -11,7 +11,7 @@ experience:
   - title: Research Associate
     company: Jülich Research Center, Institute for Neuroscience and Medicine 
     company_url: ""
-    location: New York
+    location: Germany
     date_start: 2018-09-01
     date_end: ""
     description: Research on philosophical questions associated with neuroscience and artificial intelligence. Lecturing in the Philosophy department at the University of Bonn. 
