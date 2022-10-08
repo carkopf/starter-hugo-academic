@@ -14,7 +14,7 @@ experience:
     location: New York
     date_start: 2018-09-01
     date_end: ""
-    description: Research on conceptual and ethical issues in neuroscience and artificial intelligence. 
+    description: Research on philosophical questions that associated with neuroscience and artificial intelligence. Lecturing in the Philosophy department at the University of Bonn. 
     
   - title: Assistant Professor of Philosophy
     company: Iona College
