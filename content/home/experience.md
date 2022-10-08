@@ -29,7 +29,7 @@ experience:
         * Teaching
         * New course development
        
-  - title: Postdoctoral Scholar
+  - title: National Science Foundation Postdoctoral Scholar
     company: The Graduate Center at the City University of New York
     company_url: https://www.gc.cuny.edu/philosophy
     location: New York
