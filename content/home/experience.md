@@ -8,7 +8,7 @@ subtitle: null
 active: true
 date_format: Jan 2006
 experience:
-  - title: Research Associate
+  - title: Permanent Research Associate
     company: Jülich Research Center, Institute for Neuroscience and Medicine 
     company_url: ""
     location: Germany
