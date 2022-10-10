@@ -20,6 +20,7 @@ image:
   caption: ""
   focal_point: Smart
   preview_only: false
+  filename: featured.png
 url_code: ""
 ---
 Deep neural networks display astounding predictive capacities. But when they do fail, the failures are *strange*. I am interested in the epistemological implications of such strange errors.  
