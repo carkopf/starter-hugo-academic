@@ -4,7 +4,7 @@ date: 2022-10-07T19:03:03.730Z
 draft: false
 featured: false
 image:
-  filename: mind-reading-.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
