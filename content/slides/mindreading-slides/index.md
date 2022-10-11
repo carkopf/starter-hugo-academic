@@ -15,7 +15,7 @@
 "13": o
 "14": p
 "15": f
-title: mindreading slides
+title: NeuroContent
 date: 2022-10-04T05:56:49.336Z
 draft: false
 slides:
