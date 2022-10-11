@@ -17,7 +17,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: NeuroContent
+slides: mindreading-slides
     
 ---
 Can mental content be decoded from brain data? With the aid of machine learning, there is a good case to be made that it can.
