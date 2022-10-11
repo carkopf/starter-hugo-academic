@@ -1,5 +1,5 @@
 ---
-title: " Learning to Live with Strange Error "
+title: StrangeError
 date: 2022-10-11T19:18:48.773Z
 draft: false
 slides:
