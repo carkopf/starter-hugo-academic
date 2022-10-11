@@ -22,5 +22,7 @@ image:
   preview_only: false
   filename: featured.png
 url_code: ""
+
+slides: strange-error
 ---
 Deep neural networks display astounding predictive capacities. But when they do fail, the failures are *strange*. I am interested in the epistemological implications of such strange errors.  
