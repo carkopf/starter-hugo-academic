@@ -23,11 +23,11 @@ slides:
 - so I am making an effort
 
 ---
-test
+## test
 ---
-test 2
+## test 2
 ---
-test 3
+## test 3
 ---
 conclusion
 
