@@ -1,5 +1,5 @@
 ---
-title: Neural Reuse and the Nature of Evolutionary Constraint
+title: Neural reuse and the nature of evolutionary constraint
 publication_types:
   - "0"
   - "6"
