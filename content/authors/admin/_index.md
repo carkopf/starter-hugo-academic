@@ -29,8 +29,6 @@ organizations:
     url: https://www.fz-juelich.de/en
   - name: University of Bonn
     url: https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/philosophy-bakf
-% education:
-  courses: []
 superuser: true
 highlight_name: true
 title: Charles Rathkopf
