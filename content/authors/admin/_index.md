@@ -30,16 +30,7 @@ organizations:
   - name: University of Bonn
     url: https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/philosophy-bakf
 education:
-  courses:
-    - course: PhD in Philosophy
-      institution: University of Virginia
-      year: ""
-    - course: MA in Logic
-      institution: "KU Leuven "
-      year: ""
-    - course: BA in Philosophy
-      institution: Colgate University
-      year: ""
+  courses: []
 superuser: true
 highlight_name: true
 title: Charles Rathkopf
