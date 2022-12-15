@@ -19,7 +19,7 @@ abstract: Will brain imaging technology soon enable neuroscientists to read
 tags: []
 projects:
   - The neuroscience of content
-slides: example
+# slides: example
 url_pdf: ""
 publication_types:
   - "2"
@@ -35,19 +35,14 @@ url_video: ""
 publication: ""
 featured: true
 date: 2022-05-01T00:00:00.000Z
-url_slides: ""
+# url_slides: ""
 title: "Can we read minds by imaging brains? "
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
 ---
-<https://github.com/carkopf/starter-hugo-academic/assets/media/mindreading_preprint.pdf>{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
