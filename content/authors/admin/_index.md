@@ -1,5 +1,4 @@
 ---
-role: "Research Associate at the Institute for Brain and Behavior "
 avatar_filename: avatar.jpeg
 bio: "I am interested in how mental properties emerge from physical stuff. "
 
