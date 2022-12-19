@@ -24,10 +24,8 @@ experience:
     date_end: 2018-09-01
     description: |-2
         Responsibilities include:
-        * Research
-        * Grant writing
-        * Teaching
-        * New course development
+        * Teaching philosophy of science, philosophy of mind, and logic
+        * Creation of neuroscience minor in psychology department
        
   - title: National Science Foundation Postdoctoral Scholar
     company: The Graduate Center at the City University of New York
