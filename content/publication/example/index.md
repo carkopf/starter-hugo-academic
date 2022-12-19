@@ -20,7 +20,7 @@ tags: []
 projects:
   - The neuroscience of content
 # slides: example
-url_pdf: "starter-hugo-academic/assets/media/mindreading_preprint.pdf"
+url_pdf: "https://github.com/carkopf/starter-hugo-academic/blob/main/assets/media/mindreading_preprint.pdf"
 publication_types:
   - "2"
 image:
