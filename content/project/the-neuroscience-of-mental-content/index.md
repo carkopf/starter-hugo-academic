@@ -21,3 +21,7 @@ image:
     
 ---
 Can mental content be decoded from brain data? With the aid of machine learning, there is a good case to be made that it can.
+
+# Publications
+
+[Can we read minds by imaging brains?]({{< ref "publication/readminds/" >}})
