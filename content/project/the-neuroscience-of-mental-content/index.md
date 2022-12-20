@@ -3,6 +3,7 @@ title: The neuroscience of mental content
 date: 2022-10-07T19:03:03.730Z
 draft: false
 featured: false
+profile = false
 image:
   filename: featured.jpg
   focal_point: Smart
