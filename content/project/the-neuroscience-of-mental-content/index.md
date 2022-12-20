@@ -24,6 +24,6 @@ image:
 ---
 Can mental content be decoded from brain data? With the aid of machine learning, there is a good case to be made that it can.
 
-# Publications
+## Associated publications
 
 {{<cite page="/publication/readminds" view="3" >}}
