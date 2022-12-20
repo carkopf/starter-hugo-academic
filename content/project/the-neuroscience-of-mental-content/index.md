@@ -4,6 +4,7 @@ date: 2022-10-07T19:03:03.730Z
 draft: false
 featured: false
 profile: false
+share: false
 image:
   filename: featured.jpg
   focal_point: Smart
