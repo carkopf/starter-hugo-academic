@@ -13,6 +13,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+share: false
 summary: "There can be an objective fact about the number of bits in a biological signal, despite the fact that the signal is receiver-relative."
 url_dataset: ""
 url_project: ""
