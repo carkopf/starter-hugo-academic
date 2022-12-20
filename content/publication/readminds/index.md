@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-05-01T00:00:00.000Z
+# date: 2022-05-01T00:00:00.000Z
 # url_slides: ""
 title: "Can we read minds by imaging brains?"
 publishDate: 2017-01-01T00:00:00.000Z
