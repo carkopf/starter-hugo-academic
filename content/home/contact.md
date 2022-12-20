@@ -16,7 +16,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: charles {dot} rathkopf {at} gmail.com
+  email: '''charles {dot} rathkopf {at} gmail.com'''
   contact_links:
     - icon: twitter
       icon_pack: fab
