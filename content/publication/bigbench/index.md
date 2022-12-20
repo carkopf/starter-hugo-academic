@@ -11,4 +11,7 @@ summary: My contribution was a task called "conceptual combinations," created to
 url_poster: ""
 url_code: ""
 doi: ""
+profile: false
+share: false
+
 ---
