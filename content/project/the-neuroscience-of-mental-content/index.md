@@ -24,4 +24,4 @@ Can mental content be decoded from brain data? With the aid of machine learning,
 
 # Publications
 
-
+references 'content/publications/readminds.pdf'
