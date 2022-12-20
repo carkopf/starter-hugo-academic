@@ -13,5 +13,5 @@ title: "What kind of information is brain information?"
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: "https://link.springer.com/article/10.1007/s11245-017-9512-6"
+doi: "https://doi.org/10.1007/s11245-017-9512-6"
 ---
