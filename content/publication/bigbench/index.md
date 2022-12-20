@@ -1,6 +1,6 @@
 ---
 authors:
-  - Aarohi Srivastava and *many* others 
+  - Aarohi Srivastava and many others 
 publication_short: Forthcoming
 projects:
 url_project: ""
