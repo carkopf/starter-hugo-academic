@@ -26,5 +26,5 @@ title: "Neural information and the problem of objectivity"
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "https://doi.org/10.1007/s10539-017-9561-7"
 ---
