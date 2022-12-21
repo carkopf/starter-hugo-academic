@@ -18,7 +18,7 @@ social:
     icon_pack: ai
     link: https://philpeople.org/profiles/charles-rathkopf
     label: "Philpeople"
-   - display:
+  - display:
       header: false
     icon: researchgate
     icon_pack: ai
