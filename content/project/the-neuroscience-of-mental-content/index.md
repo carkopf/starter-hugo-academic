@@ -5,6 +5,7 @@ draft: false
 featured: false
 profile: false
 share: false
+summary: Can mental content be decoded from brain data? With the aid of machine learning, there is a good case to be made that it can.
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -22,7 +23,6 @@ image:
 #   slides: mindreading-slides
     
 ---
-Can mental content be decoded from brain data? With the aid of machine learning, there is a good case to be made that it can.
 
 ## Associated publications
 
