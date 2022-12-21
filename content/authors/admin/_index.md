@@ -17,7 +17,13 @@ social:
     icon: philpapers
     icon_pack: ai
     link: https://philpeople.org/profiles/charles-rathkopf
-    label: "Philpeople "
+    label: "Philpeople"
+   - display:
+      header: false
+    icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Charles-Rathkopf
+    label: "Researchgate"
 organizations:
   - name: Jülich Research Center
     url: https://www.fz-juelich.de/en
