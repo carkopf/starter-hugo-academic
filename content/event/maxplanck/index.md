@@ -32,11 +32,13 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/CRathkopf
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+share: false
+profile: false
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
