@@ -1,5 +1,5 @@
 ---
-title: "Evolution of cognition "
+title: "Interpreting neural networks"
 date: 2022-12-13T20:30:39.638Z
 ---
-How did minds evolve? This question is interesting in its own right, but can also help us think about what minds are.
+Artificial neural networks are epistemically opaque. It is impossible for a human to examine each step in the computation that generates an output. Nevertheless, there is sense in which the outputs can be explained. 
