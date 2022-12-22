@@ -1,20 +1,13 @@
 ---
-title: Do large language models understand?
+title: The evolution of cognition
 date: 2022-10-07T17:54:46.497Z
 draft: false
 featured: false
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
-  caption: Image taken from The Illustrated Transformer.
-    https://jalammar.github.io/illustrated-transformer/
 profile: false
 share: false
-summary: Machines can now talk. Do they understand what they are saying? 
-abstract: Large language models have become extremely powerful in the past few years. They can hold conversations, make jokes, and explain the answers to algebra problems. It is hard to avoid the impression that they are *reasoning* about the world. Skeptics say that the performance of large language models depends entirely on statistical associations between words, rather than on an understanding of what they mean. Others are more impressed, and say that large language models understand words in roughly the way that we do. In my view, both positions are exaggerations. The truth is in the middle, but also more stranger, and more difficult to express than either of these. I'm interested in developing better ways of explaining the performance of large language models, both by testing their capacities, and by developing new conceptual resources for describing how they work.
+summary: Thinking about how cognition evolved, both biologically and culturally, can help us understand what minds are.
+abstract: One of the best ways to understand the place of mind in nature is Darwin's way: by thinking about how they came to be. This topic is interesting in its own right. But it is also interesting because it provides resources for conceptualizing the minds of non-human agents, both biological and artificial. 
 ---
 
 ## Associated publications 
 
-{{<cite page="/publication/bigbench" view="3" >}}
