@@ -5,9 +5,8 @@ draft: false
 featured: false
 profile: false
 share: false
+
 summary: Thinking about how cognition evolved, both biologically and culturally, can help us understand what minds are.
+
 abstract: One of the best ways to understand the place of mind in nature is Darwin's way: by thinking about how they came to be. This topic is interesting in its own right. But it is also interesting because it provides resources for conceptualizing the minds of non-human agents, both biological and artificial. 
 ---
-
-## Associated publications 
-
