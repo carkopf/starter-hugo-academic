@@ -12,7 +12,7 @@ image:
 ---
 Argument maps are colored box-and-arrow diagrams that represent the logical structure of arguments in natural language. The best way to explain how argument mapping works is by providing an example. Argument mapping can be used to represent all sorts of content, but as I am a philosopher, let us consider a philosophical argument. This one is drawn, with a bit of revision, from a passage by Lucretius, the Roman poet and Epicurean philosopher.
 
-{{< figure src="Lucretius.jpg" title="A simple argument map composed of 2 argument units. One unit provides support for a premise that appears in the other." >}}
+{{< figure src="Lucretius.png" title="A simple argument map composed of 2 argument units. One unit provides support for a premise that appears in the other." >}}
 
 > “The state of being not-yet-born is not bad for you. But being dead is just like being not-yet-born, in all relevant respects. Death, therefore, is not bad for you. And since it is irrational to fear what is not bad for you, you should not fear death.”
 
