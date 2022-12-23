@@ -3,6 +3,7 @@ title: Argument mapping
 date: 2022-10-07T19:19:18.802Z
 draft: false
 featured: false
+share: false
 image:
   filename: featured.png
   focal_point: Smart
