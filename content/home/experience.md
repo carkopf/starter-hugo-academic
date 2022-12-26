@@ -33,7 +33,7 @@ experience:
     location: New York
     date_start: 2015-09-01
     date_end: 2016-09-01
-    description: Researched the nature of information in neurosciene and biology
+    description: Researched the nature of information in neuroscience and biology
       with [Professor Peter Godfrey-Smith.](https://petergodfreysmith.com)
 design:
   columns: "2"
