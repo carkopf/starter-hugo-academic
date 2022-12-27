@@ -2,6 +2,9 @@
 authors:
   - Charles Rathkopf
   - Daniel Dennett
+author_notes:
+  - Research Center Jülich
+  - Tufts University 
 publication_short: Behavioral and Brain Sciences
 abstract: Cecelia Heyes suggests that selective social learning comes in two varieties. One is common, domain general, and associative. The other is rare, domain specific, and metacognitive. We argue that this binary distinction cannot quite do the work she assigns it, and sketch a framework in which additional strategies for selective social learning might be accommodated.
 projects:
