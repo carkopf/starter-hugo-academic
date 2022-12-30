@@ -1,5 +1,5 @@
 ---
-title: Strange risk in AI ethics
+title: 'Strange risk in AI ethics'
 event: XAI 4 
 event_url: "https://juanmduran.net/xai4/"
 location: Delft University of Technology
