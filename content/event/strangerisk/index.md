@@ -1,6 +1,6 @@
 ---
 title: 'Strange risk in AI ethics'
-event: XAI 4 
+event: 'XAI 4' 
 event_url: "https://juanmduran.net/xai4/"
 location: Delft University of Technology
 summary: 'Where ML models are used as the centerpiece of an epistemic classification procedure, reliability is not sufficient for ethical use. The nature of classification errors should be taken into account.'
