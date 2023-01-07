@@ -5,7 +5,7 @@ publication_short: Philosophy of Science
 abstract: "This paper describes one style of functional analysis commonly used in the neurosciences called task-bound functional analysis. The concept of function invoked by this style of analysis is distinctive in virtue of the dependence relations it bears to transient environmental properties. It is argued that task-bound functional analysis cannot explain the presence of structural properties in nervous systems. An alternative concept of neural function is introduced that draws on the theoretical neuroscience literature, and an argument is given to show that this alternative concept of may help to overcome the explanatory limitations of task-bound functional analysis." 
 tags: []
 projects:
-summary: ""
+summary: "If there are localized functions in the brain, they can only be articulated by abstracting away from functions associated with particular experimental tasks."
 url_project: ""
 publication: ""
 date: []
