@@ -12,7 +12,7 @@ share: false
 summary: Where ML models are used as the centerpiece of an epistemic classification procedure, reliability is not sufficient for ethical use. The nature of classification errors should be taken into account. 
 url_project: ""
 publication: ""
-date: false
+date: "2023-01-01"
 title: "Strange error: Beyond trustworthiness in AI ethics"
 publishDate: 
 url_poster: ""
