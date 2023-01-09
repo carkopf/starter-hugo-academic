@@ -17,7 +17,7 @@ title: "Strange error: Beyond trustworthiness in AI ethics"
 publishDate: 
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.1017/S0963180122000688"
 ---
 
 
