@@ -13,7 +13,7 @@ url_project: ""
 publication: ""
 date: []
 title: "Modest and Immodest Neural Codes"
-publishDate: 2019
+publishDate: 2019-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "10.1017/S0140525X19001420"
