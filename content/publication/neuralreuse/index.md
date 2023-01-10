@@ -11,7 +11,7 @@ url_project: ""
 publication: ""
 title: "Neural reuse and the nature of evolutionary constraints"
 summary: Neural reuse helped to liberate humans from evolutionary constraints faced by our ancestors. 
-# publishDate: 
+publishDate: 2021-05-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "10.1007/978-3-030-54092-0_9"
