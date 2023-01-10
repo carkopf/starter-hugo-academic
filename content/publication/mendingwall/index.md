@@ -12,9 +12,9 @@ share: false
 summary: If meta-cognition evolved, there is probably something like semi-meta-cognition. 
 url_project: ""
 publication: ""
-date: 2022-05-01T00:00:00.000Z
+date: []
 title: "Mending wall"
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019-09-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "https://doi.org/10.1017/S0140525X19001110"
