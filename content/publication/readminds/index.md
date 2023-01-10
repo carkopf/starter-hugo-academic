@@ -3,6 +3,10 @@ authors:
   - Charles Rathkopf
   - Jan-Hendrik Heinrichs
   - Bert Heinrichs
+ author_notes:
+  - Jülich Research Center, University of Bonn
+  - Jülich Research Center, RWTH Aachen
+  - Jülich Research Center, University of Bonn
 publication_short: Philosophical Psychology
 abstract: Will brain imaging technology soon enable neuroscientists to read
   minds? We cannot answer this question without some understanding of the state
