@@ -6,12 +6,12 @@ author_notes:
   - Stanford University
   - Jülich Research Center 
 publication_short: Behavioral and Brain Sciences
-abstract: We argue that Brette's arguments, or some variation on them, work only against the immodest codes imputed by neuroscientists to the signals they study; they do not tell against "modest" codes, which may be learned by neurons themselves. Still, caution is warranted: modest neural codes likely lead to only modest explanatory gains.
+abstract: "We argue that Brette's arguments, or some variation on them, work only against the immodest codes imputed by neuroscientists to the signals they study; they do not tell against "modest" codes, which may be learned by neurons themselves. Still, caution is warranted: modest neural codes likely lead to only modest explanatory gains."
 share: false
 summary: The concept of neural coding makes sense, if you keep it modest. 
 url_project: ""
 publication: ""
-date: 2022-05-01T00:00:00.000Z
+date: []
 title: "Modest and Immodest Neural Codes"
 publishDate: 2019
 url_poster: ""
