@@ -12,7 +12,7 @@ summary: The concept of neural coding makes sense, if the codes can be learned b
 url_project: ""
 publication: ""
 date: []
-title: "Modest and Immodest Neural Codes"
+title: "Modest and immodest neural codes"
 publishDate: 2019-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
