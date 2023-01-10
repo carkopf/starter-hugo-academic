@@ -3,7 +3,7 @@ authors:
   - Charles Rathkopf
   - Jan-Hendrik Heinrichs
   - Bert Heinrichs
- author_notes:
+author_notes:
   - Jülich Research Center, University of Bonn
   - Jülich Research Center, RWTH Aachen
   - Jülich Research Center, University of Bonn
