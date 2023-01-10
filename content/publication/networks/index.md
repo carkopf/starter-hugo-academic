@@ -9,7 +9,7 @@ url_project: ""
 publication: ""
 date: 
 title: "Network representation and complex systems"
-publishDate: 
+publishDate: 2015-04-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "10.1007/s11229-015-0726-0"
