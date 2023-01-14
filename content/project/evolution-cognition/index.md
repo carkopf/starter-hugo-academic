@@ -3,7 +3,6 @@ title: The evolution of cognition
 date: 2022-10-07T17:54:46.497Z
 draft: false
 featured: false
-profile: false
 share: false
 
 summary: Thinking about how cognition evolved, both biologically and culturally, can help us understand what minds are.
