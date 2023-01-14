@@ -7,7 +7,7 @@ url_project: ""
 publication: ""
 title: "Beyond the imitation game: quantifying and extrapolating the capabilities of language models"
 summary: My contribution was a task called "conceptual combinations," created together with [Raphaël Millière](https://raphaelmilliere.com), [Catherine Stinson](http://www.catherinestinson.ca), and [Dimitri Coehlo Mollo](https://sites.google.com/view/dimitricoelhomollo/home).
-# publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
