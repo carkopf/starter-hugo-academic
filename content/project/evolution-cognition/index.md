@@ -10,3 +10,9 @@ summary: Thinking about how cognition evolved, both biologically and culturally,
  
 ---
 One of the best ways to understand the place of mind in nature is Darwin's way - by thinking about how they came to be. This topic is interesting in its own right. But it is also interesting because it provides resources for conceptualizing the minds of non-human agents, both biological and artificial.
+
+## Associated publications
+
+{{<cite page="/publication/neuralreuse" view="3" >}}
+
+{{<cite page="/publication/mendingwall" view="3" >}}
