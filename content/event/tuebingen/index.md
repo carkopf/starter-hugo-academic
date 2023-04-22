@@ -8,7 +8,7 @@ location: Stuttgart
 
 summary: Rather than merely demonstrating the fragility of ML models, strange error might be evidence of hidden knowledge. 
 
-abstract: In this talk, I discuss how the phenomenon of strange error bears differently on two distinct but overlapping questions: (i) the possibility of using ML systems as sources of evidence for constructing human knowledge, and (ii) the possibility of ascribing knowledge to ML systems themselves. 
+abstract: In this talk, I discuss how the phenomenon of strange error bears differently on two distinct but overlapping questions. The first is about the possibility of using ML systems as sources of evidence for constructing human knowledge. The second is about the possibility of ascribing knowledge to ML systems themselves. 
     
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
