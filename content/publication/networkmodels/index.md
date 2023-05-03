@@ -10,7 +10,7 @@ share: false
 summary: Network models support novel forms of discovery, prediction, and explanation. They also raise a philosophical puzzle about unification.     
 url_project: ""
 publication: "Routledge Handbook for the Philosophy of Modeling and Simulation"
-date: "forthcoming"
+date: 2023-01-01T00:00:00.000Z
 title: "How network models contribute to science"
 publishDate: 2023-01-01T00:00:00.000Z
 url_poster: ""
