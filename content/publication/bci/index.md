@@ -10,6 +10,6 @@ share: false
 url_project: []
 publication: "Forthcoming"
 title: "Culpability, control, and brain-computer interfaces"
-summary: [] 
+summary: "In order to tell whether someone is culpable for an action initiated by a brain-computer interface, it is _not_ necessary to work out whether the brain-computer interface correctly decoded their intention."  
 publishDate: 2023-04-01
 ---
