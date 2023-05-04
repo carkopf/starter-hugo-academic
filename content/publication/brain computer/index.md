@@ -11,8 +11,8 @@ url_project: ""
 publication: "Forthcoming"
 title: "Culpability, control, and brain-computer interfaces"
 summary:  
-publishDate: 2023-04-01T00:00:00.000Z
+publishDate: 2023-04-01
 url_poster: ""
 url_code: ""
-doi: ""
+doi: []
 ---
