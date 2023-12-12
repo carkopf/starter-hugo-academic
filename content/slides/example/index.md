@@ -169,5 +169,4 @@ Create `assets/css/reveal_custom.css` with:
 
 # Add an image
 
-![GPT-4 is not a pushover.](erlangen.png "GPT-4 is not a pushover.") 
-
+<img src="erlangen.png" width="100" height="200">
