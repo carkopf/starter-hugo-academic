@@ -159,7 +159,7 @@ Create `assets/css/reveal_custom.css` with:
 
 ---
 
-# Questions?
+## Questions?
 
 [Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
 
@@ -167,6 +167,6 @@ Create `assets/css/reveal_custom.css` with:
 
 ---
 
-# Add an image
+## Add an image
 
-<img src="erlangen.png" width="100" height="200">
+<img src="erlangen.png" width="200" height="350">
