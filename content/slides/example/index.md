@@ -164,3 +164,10 @@ Create `assets/css/reveal_custom.css` with:
 [Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
 
 [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+
+---
+
+# Add an image
+
+![GPT-4 is not a pushover.](erlangen.png "GPT-4 is not a pushover.") 
+
