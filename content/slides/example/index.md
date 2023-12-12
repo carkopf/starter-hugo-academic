@@ -169,4 +169,4 @@ Create `assets/css/reveal_custom.css` with:
 
 ## Add an image
 
-<img src="erlangen.png" width="250" height="350">
+<img src="erlangen.png" width="340" height="350">
