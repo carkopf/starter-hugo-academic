@@ -47,7 +47,9 @@ profile: false
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
+# slides
 
+url_slides: https://docs.google.com/presentation/d/19xqf1FzMGU59h7j_gx28ZRaEF12OAx__yO-AfG5VFnM/edit?usp=sharing
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
