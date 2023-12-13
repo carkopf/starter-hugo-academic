@@ -48,7 +48,6 @@ profile: false
 #   Otherwise, set `slides = ""`.
 
 
-< gdocs src="<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0soZN95aGu8eT6hFiM2zhddpSDQRjj1lrA8pK4VqpJscWxm9St-PmbRzB5lM5_T_nXNWxGWJ5gyvc/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>" >
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
