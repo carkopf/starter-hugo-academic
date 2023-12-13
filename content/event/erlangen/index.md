@@ -1,14 +1,13 @@
 ---
 title: Do LLMs Believe?
 
-event: Invited talk at the High Performance Computing Center at the University of Stuttgart
-event_url: https://philo.hlrs.de/?p=204
+event: talk 5th Philosophy of AI Conference, University of Erlangen-Nürnberg 
 
-location: Stuttgart
+location: Erlangen
 
-summary: Rather than merely demonstrating the fragility of ML models, strange error might be evidence of hidden knowledge. 
+summary: blah 
 
-abstract: In this talk, I discuss how the phenomenon of strange error bears differently on two distinct but overlapping questions. The first is about the possibility of using ML systems as sources of evidence for constructing human knowledge. The second is about the possibility of ascribing knowledge to ML systems themselves. 
+abstract: blah
     
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +48,7 @@ profile: false
 
 # slides
 
-url_slides: https://docs.google.com/presentation/d/19xqf1FzMGU59h7j_gx28ZRaEF12OAx__yO-AfG5VFnM/edit?usp=sharing
+{{< gdocs src="<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0soZN95aGu8eT6hFiM2zhddpSDQRjj1lrA8pK4VqpJscWxm9St-PmbRzB5lM5_T_nXNWxGWJ5gyvc/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>" >}}
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
