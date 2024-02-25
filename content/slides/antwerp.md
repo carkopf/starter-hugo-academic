@@ -1,7 +1,7 @@
 
 ---
-title: Culpability and control in BCI-mediated action
-summary: Must a brain-computer interface interpret your intentions faithfully, if you are to be held responsible for BCI-mediated action? No not really. 
+title: Two constraints on the neuroscience of content
+summary: I describe two non-obvious theoretical constraints on any attempt to decode propositional attitudes from brain data. 
 authors: []
 tags: ['Tutorials']
 categories: []

@@ -35,7 +35,7 @@ links:
     url: https://twitter.com/CRathkopf
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: london
 url_video: ''
 share: false
 profile: false
