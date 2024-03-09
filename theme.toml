@@ -48,5 +48,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   homepage = ""
   repo = ""
 
-{{ .Params.abstract | markdownify }}
+
+[build]
+publishFuture = true
 
