@@ -1,7 +1,7 @@
 ---
 title: Might deep learning vindicate functionalism?
 
-event: Invited talk at the..
+event: Invited talk at the Polish Academy of Sciences
 event_url: 
 
 location: Warsaw, Poland
@@ -12,12 +12,12 @@ abstract:
     
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-11-10T00:00:00.000Z
+date: 2023-11-09T00:00:00.000Z
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors: []
 tags: []
