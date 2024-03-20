@@ -6,9 +6,8 @@ authors: []
 categories: []
 date: '2019-02-05'
 slides: true
-theme: black
+theme: 'white'
 highlight_style: dracula
-
 ---
 ## Two constraints on the neuroscience of content
 
@@ -24,8 +23,8 @@ March 21st, 2024
 ---
 - If measurements were good enough, is there any belief that could not be "read" off the relevant brain data? 
     
-- My goal is to make progress on this question
-    - I can't answer it directly, but hope to show how philosophical debates about *belief* bear on it.
+
+- I can't answer the question directly, but hope to show how philosophical debates about *belief* bear on it.
 
 ---
 
@@ -43,31 +42,55 @@ I argue in the published paper that real cases come close enough to this ideal t
 
 
 ---
+
+## Types of constraint
+
+- Can't measure the relevant data
+- Can't understand the relevant data
+- The relevant data doesn't exist
+
+<!--
+I am interested in the third kind. This is what makes it philosophical. I can imagine an analytic philosopher saying immediately that the limits of mindreading is an empirical question. I think it is an empirical question, but also a philosophical one. How do we know which data is relevant? And how do we know if it is confined to the brain? This depends on what we think beliefs are. And philosophers have had a lot to say about that. 
+-->
+
+
+---
+
+
+
 ### Rational reconstruction in an experimental setting
 
 - Mindreading experiments typically involve predictions about stimuli. 
 - There is a gap between stimulus prediction and propositional attitude ascription. 
 - Predict trial with red square. Print: "She believes the square was red."
-- Low-key form of rational reconstruction here.
+- Low-key rational reconstruction here.
 
 
+---
 
+
+### Experimental pipeline
+
+![Experimental pipeline](/antwerp_images/pipeline.png)
+from Tang et al. (2023)
+
+{{% speaker_note %}}
+
+Decoder is given a list of candidate sentences, produces brain responses, and compares actual brain response, chooses best match.
+
+{{% /speaker_note %}}
 
 ---
 
 ### Rational reconstruction with language 
 
 ![Decoded Language from Tang et al. (2023)](/antwerp_images/decoded_language.png)
-from Tang et al.(2023)
-<!-- 
-Decoder is given a list of candidate sentences, produces brain responses, and compares actual brain response, chooses best match.
---> 
+from Tang et al. (2023)
+
 
 ---
 
-
-
-
+---
 
 
 
