@@ -26,6 +26,11 @@ March 21st, 2024
 2. The relevant data is too hard to interpret
 3. The relevant data is not (exclusively) located in the brain
 
+{{% speaker_note %}}
+- here I focus on BELIEF
+- If there are no constraints, then I can work out on the basis of brain data any and all your beliefs
+{{% /speaker_note %}}
+
 ---
 
 ### What is mind-reading?
@@ -55,7 +60,13 @@ Rule out the intentional production of conventional symbols like words.
 
 1. Social cognition takes behavior as input 
 2. Mind-reading takes exclusively neural data as input
-    e.g. predictive algorithm cannot take behavioral response latency as input
+    - e.g. predictive algorithm cannot take behavioral response latency as input
+
+{{% speaker_note %}}
+- Do we need another condition to say what mindreading really is?
+- I think we might, but to see it we need to look at an experiment. 
+{{% /speaker_note %}}
+
 ---
 
 ## Typical decoding experiment
