@@ -84,7 +84,7 @@ Rule out the intentional production of conventional symbols like words.
 
 1. Images of gesture
 2. Dutch hand-ear gesture 
-3. Infer: S believes that the food tastes good
+3. Infer: S believes that the person in the photo likes the food
 
 {{% speaker_note %}}
 - Experimenter contributes too much. No longer "pure decoding."  
