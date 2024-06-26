@@ -20,6 +20,7 @@ Center for Philosophical Psychology
 March 21st, 2024
 
 ---
+
 ## What are the theoretical limits on mind-reading?
 
 1. The relevant data is too hard to acquire 
