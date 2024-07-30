@@ -1,12 +1,12 @@
 ---
 title: Might deep learning vindicate functionalism?
 
-event: Invited talk at the Polish Academy of Sciences
+event: 
 event_url: 
 
-location: Warsaw, Poland
+location: Online
 
-summary: Deep neural networks optimized to perform object recognition tasks predict patterns of neural activation in humans and monkeys, despite not having been trained on brain data. I discuss whether this can be viewed as a case of multiple realization.
+summary:  Deep neural networks optimized to perform object recognition tasks predict patterns of neural activation in humans and monkeys, despite not having been trained on brain data. I discuss whether this can be viewed as a case of multiple realization.
 
 abstract: "Experiments in the nascent field of \textit{NeuroAI} suggest that some deep neural networks are capable of executing some of the same operations as the human brain. Consequently, these experiments appear to offer unprecedentedly direct evidence for a liberal version of the functionalist position in the philosophy of mind, according to which mental properties can be realized in non-biological systems. I scrutinize this hypothesis by subjecting it to a stringent test from the literature on multiple realization. It turns out that the empirical assessment of this kind of multiple realization yields indeterminate results, because it is not clear whether the mental kind in question is genuine. This indeterminacy suggests that the claim that a computer carries out the same mental operation as some component of the human brain has less empirical content than functionalists have tended to presume. I conclude by describing how this result extends and sharpens a family of older \textit{triviality arguments} against functionalism."
     

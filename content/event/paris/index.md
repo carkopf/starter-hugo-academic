@@ -1,30 +1,29 @@
 ---
-title: Do large language models believe?
+title: Extending ourselves with generative AI 
 
-event: PhAI 2023; 5th Conference on the Philosophy of Artificial Intelligence
-event_url: https://www.pt-ai.org/2023
+event: 'mrc2024: Models, Representation, and Computation
+'
+event_url: 'https://mrc2024.sciencesconf.org'
 
-location: Erlangen, Germany
+location: Paris
 
-summary: This is a talk about whether LLMs can be said to have beliefs.  
-abstract: ''
+summary:  
 
-
-
+abstract:     
+    
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-09T14:00:00Z'
+date: '2024-06-15T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
+publishdate: '2021-11-21T16:00:00Z'
 all_day: true
 
-# Schedule page publish date (NOT talk date).
-publishDate: ''
 
 authors: []
-tags: [LLMs]
+tags: ["AI in science"]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -37,7 +36,7 @@ links:
     url: https://twitter.com/CRathkopf
 url_code: ''
 url_pdf: ''
-url_slides: london
+url_slides: ''
 url_video: ''
 share: false
 profile: false
@@ -47,7 +46,7 @@ profile: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -55,8 +54,6 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
-
 
 ---
 
