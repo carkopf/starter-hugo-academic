@@ -6,7 +6,7 @@ event_url: 'https://icml.cc/virtual/2024/workshop/29963'
 
 location: Vienna
 
-summary: "Much has been written about anthropomorphic bias in the study of LLMs. Here we discuss various kinds of anthropocentric bias." 
+summary: "Much has been written about *anthropomorphic* bias in the study of LLMs. Here we discuss various kinds of *anthropocentric* bias." 
 
 abstract: "Evaluating the cognitive capacities of large language models (LLMs) requires overcoming not only anthropomorphic but also anthropocentric biases. This article identifies two types of anthropocentric bias that have been neglected: overlooking how auxiliary factors can impede LLM performance despite competence (Type-I), and dismissing LLM mechanistic strategies that differ from those of humans as not genuinely competent (Type-II). Mitigating these biases necessitates an empirically-driven, iterative approach to mapping cognitive tasks to LLM-specific capacities and mechanisms, which can be done by supplementing carefully designed behavioral experiments with mechanistic studies."
     

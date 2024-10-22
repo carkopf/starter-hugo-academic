@@ -14,7 +14,7 @@ abstract: Can we decode a person's beliefs from measurements of their neural act
 date: '2024-03-21T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 publishdate: '2021-11-21T16:00:00Z'
-all_day: false
+all_day: true
 
 
 authors: []

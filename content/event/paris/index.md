@@ -7,7 +7,7 @@ event_url: 'https://mrc2024.sciencesconf.org'
 
 location: Paris
 
-summary:  
+summary: The tradeoff between interpretability and predictive power is well known. Here, I argue that the sort of *generative* AI models currently gaining traction in the natural sciences are bound to make that tradeoff more severe. 
 
 abstract:     
     

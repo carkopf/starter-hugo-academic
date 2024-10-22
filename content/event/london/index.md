@@ -13,7 +13,7 @@ abstract: A number of writers have recently expressed concern  that brain-comput
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-07-08T14:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''
@@ -22,7 +22,7 @@ authors: []
 tags: ["BCIs", "decoding"]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

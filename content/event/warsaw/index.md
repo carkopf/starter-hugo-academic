@@ -14,7 +14,7 @@ abstract: "Experiments in the nascent field of \textit{NeuroAI} suggest that som
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-11-09T00:00:00.000Z
 # date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''

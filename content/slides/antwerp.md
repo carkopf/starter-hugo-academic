@@ -86,7 +86,7 @@ Rule out the intentional production of conventional symbols like words.
 
 {{% speaker_note %}}
 - Some rational reconstruction here. 
-- Maybe subject believes that the experiment is about illusions, so she believes the oppoite of what her perceptual evidence suggests.
+- Maybe subject believes that the experiment is about illusions, so she believes the opposite of what her perceptual evidence suggests.
 - Degree of RR inversely proportional to strangeness of thought experiment 
 {{% /speaker_note %}}
 
@@ -197,8 +197,7 @@ rational action for agents with the belief that P
 1. Stereotypes of rational action are essential to belief
 2. Stereotypes depend on population-level facts about behavior
 3. Therefore, belief-determining facts not (only) in the brain
-4. Therefore, no empirical discovery will relieve us of the need 
-for rational reconstruction. 
+4. Therefore, no empirical discovery will relieve us of the need for rational reconstruction. 
 
 {{% speaker_note %}}
 This is the first constraint from my title. If you're superficialist, you have to deny that pure decoding is possible, where "pure" decoding means no rational reconstruction.
@@ -238,7 +237,7 @@ behavioral evidence
 - Worry that they talk past each other because there are two kinds of belief
 - A superficial kind which we will retain no matter what neuroscience discovers, and another, superficialist kind which may diverge from our folk habits of attitude ascription 
 - We can have both, you might think. Mandelbaum can give us reasons to think that mental representations that cause behavior are propositional, and he wants to call them belief. Schwitzgebel thinks lots of what we will insist on calling belief is probably not so clearly defined in the brain. 
-- So they are taling past. 
+- So they are talking past. 
 - But now consider trumping cases. This reveals that they are not merely talking past each other. With respect to trumping, the views are in direct competition.  
 {{% /speaker_note %}}
 
